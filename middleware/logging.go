@@ -8,7 +8,7 @@ import (
 	"net/http/httputil"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // Log middleware logs http requests
